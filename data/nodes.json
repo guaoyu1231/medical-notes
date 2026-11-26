@@ -1,0 +1,63 @@
+[
+  {
+    "id": "clinical",
+    "title": "诊断学",
+    "parent": null,
+    "icon": "stethoscope",
+    "description": "从检查方法理解临床所见"
+  },
+  {
+    "id": "clinical-cv",
+    "title": "心血管系统",
+    "parent": "clinical"
+  },
+  {
+    "id": "ecg-basics",
+    "title": "心电图基础",
+    "parent": "clinical-cv"
+  },
+  {
+    "id": "physiology",
+    "title": "生理学",
+    "parent": null,
+    "icon": "pulse",
+    "description": "梳理人体功能与调节机制"
+  },
+  {
+    "id": "physio-cv",
+    "title": "循环系统",
+    "parent": "physiology"
+  },
+  {
+    "id": "cardiac-pump",
+    "title": "心脏泵血",
+    "parent": "physio-cv"
+  },
+  {
+    "id": "anatomy",
+    "title": "系统解剖学",
+    "parent": null,
+    "icon": "bone",
+    "description": "沿器官结构建立空间认识"
+  },
+  {
+    "id": "anatomy-cv",
+    "title": "脉管系统",
+    "parent": "anatomy"
+  },
+  {
+    "id": "heart",
+    "title": "心脏",
+    "parent": "anatomy-cv"
+  },
+  {
+    "id": "anatomy-resp",
+    "title": "呼吸系统",
+    "parent": "anatomy"
+  },
+  {
+    "id": "lungs",
+    "title": "肺",
+    "parent": "anatomy-resp"
+  }
+]

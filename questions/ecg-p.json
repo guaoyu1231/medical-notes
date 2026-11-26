@@ -1,0 +1,7 @@
+{
+  "id": "p-wave-recall",
+  "note": "ecg-waves",
+  "prompt": "P 波对应心脏的哪一种电活动？",
+  "answer": "心房除极。先找到 QRS 波群，再向前辨认 P 波。",
+  "kind": "sample"
+}
