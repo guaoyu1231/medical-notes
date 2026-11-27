@@ -134,7 +134,11 @@ def build(out):
         (out / "notes" / f"{key}.html").write_text(source + extra, encoding="utf-8")
     dump(out / "catalog.json", {"nodes": nodes, "notes": sorted(notes.values(), key=lambda n: n["updated"], reverse=True)})
     dump(out / "search-index.json", search)
-    for name in sorted(assets | {"index.html", "styles/site.css", "scripts/app.js"}):
+    learning_files = {
+        "learning/entry.js", "learning/app.js", "learning/model.js", "learning/ui.css",
+        *(f"learning/data/{key}.json" for key in ("nodes", "contents", "questions", "tasks")),
+    }
+    for name in sorted(assets | learning_files | {"index.html", "library.html", "styles/site.css", "scripts/app.js"}):
         src = ROOT / name
         require(src.resolve().is_relative_to(ROOT), f"资源超出项目目录：{name}")
         target = out / name

@@ -1,0 +1,991 @@
+[
+  {
+    "id": "dm-q01",
+    "number": 1,
+    "kind": "单选",
+    "layer": 1,
+    "stem": "成人在胰腺广泛切除后首次出现持续高血糖，并已达到糖尿病诊断标准。若按病因分型，最合适的归类是？",
+    "options": {
+      "A": "1 型糖尿病",
+      "B": "2 型糖尿病",
+      "C": "其他特殊类型糖尿病",
+      "D": "糖尿病前期"
+    },
+    "location": "题库第 01 题",
+    "answer": [
+      "C"
+    ],
+    "description": "单选",
+    "difficulty": "预计易",
+    "source": "自编",
+    "primary": [
+      "etiology-types"
+    ],
+    "secondary": [
+      "crisis-triggers"
+    ],
+    "rationale": "病因分类决定答案，胰腺实质显著减少是追溯病因的线索。",
+    "path": "持续高血糖已确诊 → 明确出现于广泛切除后 → 归入胰腺疾病相关的特殊类型。",
+    "analysis": "胰腺切除造成的糖尿病有可识别的继发病因。需要胰岛素治疗或起病在成年均不能据此改归 1 型或 2 型。",
+    "purpose": "看到病因线索能提取四类分型框架。",
+    "total": 84.75,
+    "rank": 4,
+    "scores": {
+      "相关度": 96.0,
+      "重要性": 88.0,
+      "难度适配": 89.0,
+      "辨析迁移": 66.0,
+      "综合度": 55.0
+    },
+    "links": [
+      {
+        "label": "〔中〕",
+        "url": "https://doi.org/10.3760/cma.j.cn115791-20241203-00705"
+      },
+      {
+        "label": "〔诊〕",
+        "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S27/163926/2-Diagnosis-and-Classification-of-Diabetes"
+      }
+    ]
+  },
+  {
+    "id": "dm-q02",
+    "number": 2,
+    "kind": "单选",
+    "layer": 1,
+    "stem": "自身免疫性 1 型糖尿病中，哪项变化最直接解释内源性胰岛素明显不足？",
+    "options": {
+      "A": "胰岛 β 细胞受损，分泌能力下降",
+      "B": "骨骼肌对胰岛素反应下降，β 细胞仍可充分代偿",
+      "C": "肝脏对胰岛素反应下降，但 β 细胞分泌保留",
+      "D": "餐后短暂分泌延迟，总分泌能力保留"
+    },
+    "location": "题库第 02 题",
+    "answer": [
+      "A"
+    ],
+    "description": "单选",
+    "difficulty": "预计易",
+    "source": "自编",
+    "primary": [
+      "beta-damage"
+    ],
+    "secondary": [],
+    "rationale": "只需提取胰岛素分泌细胞受损这一核心机制。",
+    "path": "自身免疫性 1 型 → β 细胞损伤 → 胰岛素分泌不足。",
+    "analysis": "β 细胞负责分泌胰岛素。单有组织抵抗或短暂分泌延迟，不能解释题设的显著分泌缺陷。",
+    "purpose": "把 1 型直接定位到分泌端。",
+    "total": 87.5,
+    "rank": 3,
+    "scores": {
+      "相关度": 99.0,
+      "重要性": 96.0,
+      "难度适配": 87.0,
+      "辨析迁移": 70.0,
+      "综合度": 52.0
+    },
+    "links": [
+      {
+        "label": "〔中〕",
+        "url": "https://doi.org/10.3760/cma.j.cn115791-20241203-00705"
+      },
+      {
+        "label": "〔诊〕",
+        "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S27/163926/2-Diagnosis-and-Classification-of-Diabetes"
+      }
+    ]
+  },
+  {
+    "id": "dm-q03",
+    "number": 3,
+    "kind": "单选",
+    "layer": 1,
+    "stem": "对非妊娠成人，以下哪组按「实验室空腹静脉血浆葡萄糖／75 g OGTT 2 小时静脉血浆葡萄糖／标准化 HbA1c」的顺序，正确列出糖尿病诊断切点？本题只考切点。",
+    "options": {
+      "A": "6.1 mmol/L／11.1 mmol/L／6.5%",
+      "B": "7.0 mmol/L／7.8 mmol/L／6.5%",
+      "C": "7.0 mmol/L／11.1 mmol/L／6.0%",
+      "D": "7.0 mmol/L／11.1 mmol/L／6.5%"
+    },
+    "location": "题库第 03 题",
+    "answer": [
+      "D"
+    ],
+    "description": "单选",
+    "difficulty": "预计易",
+    "source": "自编",
+    "primary": [
+      "cutoffs"
+    ],
+    "secondary": [],
+    "rationale": "三项均来自同一诊断标准节点，无需判断确证流程。",
+    "path": "辨认空腹、糖负荷 2 小时和 HbA1c 的顺序 → 匹配各自诊断切点。",
+    "analysis": "三项切点分别为 ≥7.0、≥11.1 mmol/L 和 ≥6.5%。6.1、7.8 mmol/L 属于其他糖代谢分类切点，不能用于替代本题的糖尿病诊断值。",
+    "purpose": "把常见易混数字绑定到标本和时间点。",
+    "total": 90.9,
+    "rank": 1,
+    "scores": {
+      "相关度": 100.0,
+      "重要性": 98.0,
+      "难度适配": 94.0,
+      "辨析迁移": 77.0,
+      "综合度": 53.0
+    },
+    "links": [
+      {
+        "label": "〔中〕",
+        "url": "https://doi.org/10.3760/cma.j.cn115791-20241203-00705"
+      },
+      {
+        "label": "〔基〕",
+        "url": "https://cs.medjournals.cn/article/en/doi/full/10.3760/cma.j.cn112138-20250924-00572"
+      }
+    ]
+  },
+  {
+    "id": "dm-q04",
+    "number": 4,
+    "kind": "单选",
+    "layer": 1,
+    "stem": "四名病情稳定的 2 型糖尿病成人分别只用下列一种口服药。其他条件相近时，哪种药单用的低血糖风险最高？",
+    "options": {
+      "A": "二甲双胍（双胍类）",
+      "B": "格列美脲（磺脲类）",
+      "C": "西格列汀（DPP-4 抑制剂）",
+      "D": "达格列净（SGLT2 抑制剂）"
+    },
+    "location": "题库第 04 题",
+    "answer": [
+      "B"
+    ],
+    "description": "单选",
+    "difficulty": "预计易",
+    "source": "真题要点改写 · 日本第116回 A004",
+    "primary": [
+      "oral-drugs"
+    ],
+    "secondary": [
+      "cardiorenal"
+    ],
+    "rationale": "用已给出的药物类别直接比较低血糖风险，药名是代表性实例。",
+    "path": "确认比较的是单药 → 提取磺脲类促泌机制及低血糖风险。",
+    "analysis": "格列美脲为磺脲类，促胰岛素分泌可增加低血糖风险。其余三类单用通常低风险。若与胰岛素或磺脲类联用，需重新评估总体风险。",
+    "purpose": "把药物类别与代表性不良反应对应起来。",
+    "total": 89.8,
+    "rank": 2,
+    "scores": {
+      "相关度": 98.0,
+      "重要性": 94.0,
+      "难度适配": 92.0,
+      "辨析迁移": 79.0,
+      "综合度": 62.0
+    },
+    "links": [
+      {
+        "label": "〔日A〕",
+        "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp220421-01a_01.pdf#page=8"
+      },
+      {
+        "label": "〔日116答〕",
+        "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp220421-01seitou.pdf"
+      },
+      {
+        "label": "〔中〕",
+        "url": "https://doi.org/10.3760/cma.j.cn115791-20241203-00705"
+      }
+    ]
+  },
+  {
+    "id": "dm-q05",
+    "number": 5,
+    "kind": "单选",
+    "layer": 2,
+    "stem": "一名 2 型糖尿病易感者早期血糖正常，但胰岛素水平较高。数年后，在胰岛素抵抗程度相近的情况下出现持续高血糖。哪项最能串起这两个阶段？",
+    "options": {
+      "A": "早期肝糖输出增加，后期单靠肌肉摄糖减少即可解释",
+      "B": "早期和后期均需先出现自身免疫性 β 细胞破坏",
+      "C": "早期 β 细胞增加分泌维持血糖，后期代偿不足以匹配需求",
+      "D": "早期高胰岛素提示组织敏感性增强，后期分泌过多造成高血糖"
+    },
+    "location": "题库第 05 题",
+    "answer": [
+      "C"
+    ],
+    "description": "单选",
+    "difficulty": "预计中",
+    "source": "自编",
+    "primary": [
+      "insulin-resistance"
+    ],
+    "secondary": [],
+    "rationale": "从两个时间点解释同一病理过程，题干设定抵抗程度相近。",
+    "path": "高胰岛素而血糖尚正常 → 代偿 → 在相同抵抗背景下分泌跟不上 → 血糖上升。",
+    "analysis": "胰岛素抵抗可先出现，早期靠增加分泌维持血糖。后期即使胰岛素绝对值未降到参考范围以下，也可能相对不足。",
+    "purpose": "区分抵抗、代偿和失代偿。",
+    "total": 93.9,
+    "rank": 5,
+    "scores": {
+      "相关度": 99.0,
+      "重要性": 96.0,
+      "难度适配": 95.0,
+      "辨析迁移": 96.0,
+      "综合度": 70.0
+    },
+    "links": [
+      {
+        "label": "〔中〕",
+        "url": "https://doi.org/10.3760/cma.j.cn115791-20241203-00705"
+      },
+      {
+        "label": "〔诊〕",
+        "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S27/163926/2-Diagnosis-and-Classification-of-Diabetes"
+      }
+    ]
+  },
+  {
+    "id": "dm-q06",
+    "number": 6,
+    "kind": "因果链单选",
+    "layer": 2,
+    "stem": "一名未治疗的患者出现血糖显著升高、大量排尿和口渴。哪条因果链最符合这一组变化？",
+    "options": {
+      "A": "高血糖 → 尿糖增多 → 渗透性利尿 → 失水后口渴",
+      "B": "高血糖 → 首先口渴多饮 → 水负荷增加 → 继发尿糖",
+      "C": "尿糖增多 → 血糖上升 → 随后尿量减少 → 口渴",
+      "D": "血糖上升 → 肾小管重吸收水增加 → 多尿 → 口渴"
+    },
+    "location": "题库第 06 题",
+    "answer": [
+      "A"
+    ],
+    "description": "因果链单选",
+    "difficulty": "预计易至中",
+    "source": "自编",
+    "primary": [
+      "symptoms"
+    ],
+    "secondary": [],
+    "rationale": "核心是多尿和口渴的因果次序。",
+    "path": "高血糖与尿糖 → 管腔渗透性溶质增多 → 多尿失水 → 口渴。",
+    "analysis": "显著高血糖时尿糖增加，造成渗透性利尿。虽然口渴后多饮会影响尿量，起始链条由高血糖和尿糖驱动。",
+    "purpose": "用机制回串两个常见症状。",
+    "total": 89.2,
+    "rank": 8,
+    "scores": {
+      "相关度": 97.0,
+      "重要性": 90.0,
+      "难度适配": 89.0,
+      "辨析迁移": 91.0,
+      "综合度": 66.0
+    },
+    "links": [
+      {
+        "label": "〔中〕",
+        "url": "https://doi.org/10.3760/cma.j.cn115791-20241203-00705"
+      }
+    ]
+  },
+  {
+    "id": "dm-q07",
+    "number": 7,
+    "kind": "对照单选",
+    "layer": 2,
+    "stem": "甲、乙均因糖尿病高血糖危象就诊。甲有显著酮血症和代谢性酸中毒，乙有重度高渗和脱水但无明显酮症。哪项最能解释乙的表现？",
+    "options": {
+      "A": "乙的肝糖输出被完全抑制，故只发生脱水",
+      "B": "乙因肾功能正常，持续将生成的酮体全部排尽",
+      "C": "乙存在更严重的绝对胰岛素缺乏，因此不能生酮",
+      "D": "乙的残余胰岛素足以抑制明显脂解和生酮，但不足以控制高血糖"
+    },
+    "location": "题库第 07 题",
+    "answer": [
+      "D"
+    ],
+    "description": "对照单选",
+    "difficulty": "预计中",
+    "source": "自编",
+    "primary": [
+      "hyperosmolar"
+    ],
+    "secondary": [
+      "ketoacidosis"
+    ],
+    "rationale": "高渗型机制是必需节点，酮症型的重度缺乏提供有效对照。",
+    "path": "同为高血糖 → 乙无显著酮症 → 推断抑制脂解仍有一定胰岛素作用。",
+    "analysis": "典型 HHS 中残余胰岛素抑制明显生酮，但高血糖仍驱动渗透性利尿、高渗和脱水。临床可出现 DKA 与 HHS 重叠。",
+    "purpose": "用残余胰岛素解释危象之间的差异。",
+    "total": 96.1,
+    "rank": 2,
+    "scores": {
+      "相关度": 100.0,
+      "重要性": 97.0,
+      "难度适配": 94.0,
+      "辨析迁移": 97.0,
+      "综合度": 88.0
+    },
+    "links": [
+      {
+        "label": "〔危〕",
+        "url": "https://doi.org/10.2337/dci24-0032"
+      },
+      {
+        "label": "〔中〕",
+        "url": "https://doi.org/10.3760/cma.j.cn115791-20241203-00705"
+      }
+    ]
+  },
+  {
+    "id": "dm-q08",
+    "number": 8,
+    "kind": "单选",
+    "layer": 2,
+    "stem": "某高危成人的空腹静脉血浆葡萄糖未达到糖尿病诊断切点，医生仍安排 75 g OGTT。与仅重复空腹血糖相比，增加 OGTT 的主要价值是？",
+    "options": {
+      "A": "可直接判断内源性胰岛素储备",
+      "B": "用负荷后 2 小时血糖发现空腹值可能漏掉的糖代谢异常",
+      "C": "可区分自身免疫性与非自身免疫性病因",
+      "D": "同一次检查可反映约 2–3 个月的平均血糖"
+    },
+    "location": "题库第 08 题",
+    "answer": [
+      "B"
+    ],
+    "description": "单选",
+    "difficulty": "预计中",
+    "source": "自编",
+    "primary": [
+      "glucose-tests"
+    ],
+    "secondary": [
+      "prediabetes"
+    ],
+    "rationale": "区分检测回答的问题，糖尿病前期解释为何要寻找负荷后异常。",
+    "path": "空腹指标只采基础状态 → 高危仍可能有负荷后异常 → 选择 OGTT 的特有信息。",
+    "analysis": "OGTT 可揭示负荷后血糖异常。胰岛素分泌与自身免疫需其他检查，约数月平均血糖由 HbA1c 反映。",
+    "purpose": "遇到正常空腹值时，能解释何时追加负荷试验。",
+    "total": 91.75,
+    "rank": 7,
+    "scores": {
+      "相关度": 99.0,
+      "重要性": 93.0,
+      "难度适配": 90.0,
+      "辨析迁移": 94.0,
+      "综合度": 72.0
+    },
+    "links": [
+      {
+        "label": "〔中〕",
+        "url": "https://doi.org/10.3760/cma.j.cn115791-20241203-00705"
+      },
+      {
+        "label": "〔基〕",
+        "url": "https://cs.medjournals.cn/article/en/doi/full/10.3760/cma.j.cn112138-20250924-00572"
+      }
+    ]
+  },
+  {
+    "id": "dm-q09",
+    "number": 9,
+    "kind": "条件辨析单选",
+    "layer": 2,
+    "stem": "两名非妊娠成人多饮、多尿，实验室空腹静脉血浆葡萄糖均为 8.4 mmol/L，标准化 HbA1c 均为 6.0%。乙在三周前曾因失血接受输血，甲没有影响红细胞的已知情况。对乙如何解释最合适？",
+    "options": {
+      "A": "按症状和血浆葡萄糖判定，近期失血及输血会使 HbA1c 失去可靠性",
+      "B": "两个指标必须同时达到各自切点，现阶段只能判断糖尿病前期",
+      "C": "同一实验室的标准化 HbA1c 不受输血影响，应以 HbA1c 为主",
+      "D": "仅复测 HbA1c，必须等其超过切点才能使用血浆葡萄糖"
+    },
+    "location": "题库第 09 题",
+    "answer": [
+      "A"
+    ],
+    "description": "条件辨析单选",
+    "difficulty": "预计中",
+    "source": "自编",
+    "primary": [
+      "confirmation-limits"
+    ],
+    "secondary": [
+      "cutoffs"
+    ],
+    "rationale": "首先识别 HbA1c 的局限，再用症状与血浆葡萄糖标准判定。",
+    "path": "近期失血及输血 → HbA1c 可失真 → 典型症状配合 FPG 8.4 → 可诊断糖尿病。",
+    "analysis": "输血及红细胞更新改变 HbA1c 与平均血糖的对应关系。标准化检测本身不能消除这种干扰。题中已有典型症状和达切点的静脉血浆葡萄糖。",
+    "purpose": "在结果不一致时先判断指标是否适用。",
+    "total": 96.25,
+    "rank": 1,
+    "scores": {
+      "相关度": 100.0,
+      "重要性": 97.0,
+      "难度适配": 95.0,
+      "辨析迁移": 98.0,
+      "综合度": 86.0
+    },
+    "links": [
+      {
+        "label": "〔中〕",
+        "url": "https://doi.org/10.3760/cma.j.cn115791-20241203-00705"
+      },
+      {
+        "label": "〔诊〕",
+        "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S27/163926/2-Diagnosis-and-Classification-of-Diabetes"
+      }
+    ]
+  },
+  {
+    "id": "dm-q10",
+    "number": 10,
+    "kind": "单选",
+    "layer": 2,
+    "stem": "45 岁糖尿病成人，体重指数 29 kg/m²。病情稳定后复查，GAD 抗体明确阳性，且在血糖偏高时 C 肽明显低于参考范围。哪种解释最符合这些线索？",
+    "options": {
+      "A": "体重指数偏高即可确认为典型 2 型",
+      "B": "只要抗体阳性，C 肽结果就不能再用于判断分泌",
+      "C": "应考虑成人起病自身免疫性糖尿病，C 肽低支持内源分泌不足",
+      "D": "成年起病更符合单基因糖尿病，抗体无鉴别价值"
+    },
+    "location": "题库第 10 题",
+    "answer": [
+      "C"
+    ],
+    "description": "单选",
+    "difficulty": "预计中",
+    "source": "自编",
+    "primary": [
+      "type-differential"
+    ],
+    "secondary": [
+      "glucose-tests"
+    ],
+    "rationale": "病因分型需整合自身抗体和同期血糖背景下的 C 肽。",
+    "path": "GAD 阳性提示自身免疫 + 高血糖下 C 肽仍低提示分泌不足 → 成人起病的自身免疫性糖尿病。",
+    "analysis": "体重和年龄是线索。题中抗体与分泌指标方向一致，鉴别价值更高。C 肽应结合采样状态与同期血糖。",
+    "purpose": "避免按单一体型或年龄给糖尿病分型。",
+    "total": 94.5,
+    "rank": 4,
+    "scores": {
+      "相关度": 100.0,
+      "重要性": 94.0,
+      "难度适配": 94.0,
+      "辨析迁移": 95.0,
+      "综合度": 83.0
+    },
+    "links": [
+      {
+        "label": "〔中〕",
+        "url": "https://doi.org/10.3760/cma.j.cn115791-20241203-00705"
+      },
+      {
+        "label": "〔诊〕",
+        "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S27/163926/2-Diagnosis-and-Classification-of-Diabetes"
+      }
+    ]
+  },
+  {
+    "id": "dm-q11",
+    "number": 11,
+    "kind": "单选",
+    "layer": 2,
+    "stem": "一名成人因糖尿病酮症酸中毒接受补液与静脉胰岛素。治疗前血钾 5.4 mmol/L。随后在急症逐步纠正时，哪项最符合血钾变化？",
+    "options": {
+      "A": "初始数值偏高代表总钾储备充足，无需追踪",
+      "B": "补液可把细胞内钾推出，血钾通常继续上升",
+      "C": "只要血糖下降，血钾便能维持在初始水平",
+      "D": "胰岛素促钾进入细胞，即使起初偏高，血钾也可下降"
+    },
+    "location": "题库第 11 题",
+    "answer": [
+      "D"
+    ],
+    "description": "单选",
+    "difficulty": "预计中",
+    "source": "真题要点改写 · 日本第117回 D037",
+    "primary": [
+      "emergency-care"
+    ],
+    "secondary": [
+      "crisis-labs"
+    ],
+    "rationale": "考治疗过程中电解质变化，初值和动态复测是必要依据。",
+    "path": "DKA 初始血钾偏高可掩盖总钾丢失 → 补液和胰岛素纠正后血钾下降 → 动态监测。",
+    "analysis": "渗透性利尿等可造成体内总钾亏损，初始血钾仍可能正常或升高。补液与胰岛素治疗后血钾可下降，应随结果调整补钾。",
+    "purpose": "从初始数值转向治疗中的动态变化。",
+    "total": 95.2,
+    "rank": 3,
+    "scores": {
+      "相关度": 100.0,
+      "重要性": 96.0,
+      "难度适配": 92.0,
+      "辨析迁移": 98.0,
+      "综合度": 86.0
+    },
+    "links": [
+      {
+        "label": "〔日37〕",
+        "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp220502-01d_01.pdf#page=31"
+      },
+      {
+        "label": "〔日117答〕",
+        "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp220502-01seitou.pdf"
+      },
+      {
+        "label": "〔危〕",
+        "url": "https://doi.org/10.2337/dci24-0032"
+      }
+    ]
+  },
+  {
+    "id": "dm-q12",
+    "number": 12,
+    "kind": "多选（选两项）",
+    "layer": 2,
+    "stem": "一名接受胰岛素治疗的成人 HbA1c 接近个人目标，但一周内两次在凌晨出汗惊醒。为判断发作是否由低血糖引起，并了解是否存在重复夜间模式，哪些做法能提供合适信息？",
+    "options": {
+      "A": "症状发作时如能安全操作，立即测指尖血糖",
+      "B": "重复一次 HbA1c，用它确定两次发作时的血糖",
+      "C": "只看下一天早餐前血糖，用它回推出发作时数值",
+      "D": "查看覆盖发作时段的连续葡萄糖监测曲线"
+    },
+    "location": "题库第 12 题",
+    "answer": [
+      "A",
+      "D"
+    ],
+    "description": "多选（选两项）",
+    "difficulty": "预计中",
+    "source": "自编",
+    "primary": [
+      "monitoring"
+    ],
+    "secondary": [
+      "hypoglycemia"
+    ],
+    "rationale": "必须区分监测手段的时间分辨率，发作症状决定关注的时段。",
+    "path": "均值接近目标但有夜间症状 → 取发作时指尖值或覆盖时段的 CGM → 判定事件与模式。",
+    "analysis": "HbA1c 代表较长期平均，早餐前单点也不能回溯凌晨。指尖血糖可抓住当下，CGM 可观察夜间趋势。症状与 CGM 不一致时可用指尖值核对。",
+    "purpose": "按临床问题选监测方式。",
+    "total": 93.7,
+    "rank": 6,
+    "scores": {
+      "相关度": 99.0,
+      "重要性": 93.0,
+      "难度适配": 93.0,
+      "辨析迁移": 96.0,
+      "综合度": 82.0
+    },
+    "links": [
+      {
+        "label": "〔中〕",
+        "url": "https://doi.org/10.3760/cma.j.cn115791-20241203-00705"
+      },
+      {
+        "label": "〔监〕",
+        "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S132/163927/6-Glycemic-Goals-Hypoglycemia-and-Hyperglycemic"
+      }
+    ]
+  },
+  {
+    "id": "dm-q13",
+    "number": 13,
+    "kind": "病例单选",
+    "layer": 3,
+    "stem": "1 型糖尿病成人使用基础—餐时胰岛素。午餐前已注射原定餐时剂量，但进餐延迟。随后出现手抖、出汗和反应变慢，指尖血糖 2.8 mmol/L，补充葡萄糖后缓解。最可能的解释是？",
+    "options": {
+      "A": "餐后血糖峰值偏高",
+      "B": "餐时胰岛素作用与进食时间不匹配引起低血糖",
+      "C": "高渗高血糖状态早期表现",
+      "D": "胰岛素抵抗突然改善即可解释，进餐时间不重要"
+    },
+    "location": "题库第 13 题",
+    "answer": [
+      "B"
+    ],
+    "description": "病例单选",
+    "difficulty": "预计易至中",
+    "source": "自编",
+    "primary": [
+      "hypoglycemia"
+    ],
+    "secondary": [
+      "basal-bolus"
+    ],
+    "rationale": "需识别低血糖，并用餐时胰岛素的用途解释诱因。",
+    "path": "先打餐时胰岛素且延迟进食 → 症状合并实测低值 → 补糖后缓解。",
+    "analysis": "用药与糖摄入时点不匹配是明确诱因。出汗和手抖可来自自主神经反应，反应变慢提示脑葡萄糖供给受影响。",
+    "purpose": "把真实时间线转换成低血糖诱因。",
+    "total": 92.95,
+    "rank": 6,
+    "scores": {
+      "相关度": 98.0,
+      "重要性": 94.0,
+      "难度适配": 91.0,
+      "辨析迁移": 93.0,
+      "综合度": 82.0
+    },
+    "links": [
+      {
+        "label": "〔中〕",
+        "url": "https://doi.org/10.3760/cma.j.cn115791-20241203-00705"
+      },
+      {
+        "label": "〔监〕",
+        "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S132/163927/6-Glycemic-Goals-Hypoglycemia-and-Hyperglycemic"
+      }
+    ]
+  },
+  {
+    "id": "dm-q14",
+    "number": 14,
+    "kind": "病例单选",
+    "layer": 3,
+    "stem": "2 型糖尿病约 9 年的成人做并发症评估。eGFR 83 mL/min/1.73 m²，常规尿试纸蛋白阴性。若要进一步寻找早期白蛋白尿，最合适的检查是？",
+    "options": {
+      "A": "复查单次血清肌酐",
+      "B": "仅做肾脏超声",
+      "C": "测随机尿白蛋白／肌酐比（UACR）",
+      "D": "重复常规尿试纸作为唯一检查"
+    },
+    "location": "题库第 14 题",
+    "answer": [
+      "C"
+    ],
+    "description": "病例单选",
+    "difficulty": "预计中",
+    "source": "真题要点改写 · 日本第116回 D062",
+    "primary": [
+      "chronic-tests"
+    ],
+    "secondary": [
+      "microvascular"
+    ],
+    "rationale": "检查选取是核心，肾病可能在滤过率保留时出现白蛋白尿。",
+    "path": "常规尿蛋白阴性且 eGFR 保留 → 仍需检查早期肾损害 → 选定量 UACR。",
+    "analysis": "尿试纸可能漏检较低水平的白蛋白尿。UACR 与 eGFR 提供互补信息，首次异常还应排除暂时性因素、复查确认。",
+    "purpose": "知道阴性试纸后该选何种检测。",
+    "total": 95.55,
+    "rank": 4,
+    "scores": {
+      "相关度": 100.0,
+      "重要性": 96.0,
+      "难度适配": 95.0,
+      "辨析迁移": 96.0,
+      "综合度": 84.0
+    },
+    "links": [
+      {
+        "label": "〔日D〕",
+        "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp220421-01d_01.pdf#page=51"
+      },
+      {
+        "label": "〔日116答〕",
+        "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp220421-01seitou.pdf"
+      },
+      {
+        "label": "〔中〕",
+        "url": "https://doi.org/10.3760/cma.j.cn115791-20241203-00705"
+      }
+    ]
+  },
+  {
+    "id": "dm-q15",
+    "number": 15,
+    "kind": "病例单选",
+    "layer": 3,
+    "stem": "非妊娠成人体检无典型高血糖症状，近期也无急性应激。首次实验室 FPG 7.2 mmol/L，标准化 HbA1c 6.1%。按照中国指南，下一步最合适的是？",
+    "options": {
+      "A": "本次两项检查已经足以确诊糖尿病",
+      "B": "因为 HbA1c 低于 6.5%，可排除糖尿病",
+      "C": "改测一次随机指尖血糖作为确证依据",
+      "D": "尽早改日复测已越界的空腹静脉血浆葡萄糖"
+    },
+    "location": "题库第 15 题",
+    "answer": [
+      "D"
+    ],
+    "description": "病例单选",
+    "difficulty": "预计中",
+    "source": "自编",
+    "primary": [
+      "confirmation-limits"
+    ],
+    "secondary": [
+      "cutoffs"
+    ],
+    "rationale": "确证流程是主节点，需先识别哪个指标已过切点。",
+    "path": "无典型症状 → 一项达到诊断切点而另一项未达到 → 复测已超界的 FPG。",
+    "analysis": "若另日空腹静脉血浆葡萄糖仍 ≥7.0 mmol/L，可确认。HbA1c 未达切点不能否定已越界的 FPG，随机指尖值也不能替代确证。",
+    "purpose": "落实无症状、指标不一致时的下一步。",
+    "total": 96.4,
+    "rank": 2,
+    "scores": {
+      "相关度": 100.0,
+      "重要性": 98.0,
+      "难度适配": 96.0,
+      "辨析迁移": 96.0,
+      "综合度": 84.0
+    },
+    "links": [
+      {
+        "label": "〔中〕",
+        "url": "https://doi.org/10.3760/cma.j.cn115791-20241203-00705"
+      },
+      {
+        "label": "〔基〕",
+        "url": "https://cs.medjournals.cn/article/en/doi/full/10.3760/cma.j.cn112138-20250924-00572"
+      }
+    ]
+  },
+  {
+    "id": "dm-q16",
+    "number": 16,
+    "kind": "病例单选",
+    "layer": 3,
+    "stem": "一名 2 型糖尿病成人合并射血分数降低的慢性心力衰竭，使用二甲双胍，HbA1c 已达个人目标，eGFR 60 mL/min/1.73 m²。若本次主要目的是降低心衰住院风险，且没有相关禁忌，哪项最符合此目标？",
+    "options": {
+      "A": "考虑有心衰结局证据的 SGLT2 抑制剂",
+      "B": "优先加格列美脲以把 HbA1c 压得更低",
+      "C": "优先加吡格列酮以改善胰岛素抵抗",
+      "D": "优先加 DPP-4 抑制剂，仅依据单用低血糖风险较低"
+    },
+    "location": "题库第 16 题",
+    "answer": [
+      "A"
+    ],
+    "description": "病例单选",
+    "difficulty": "预计中",
+    "source": "自编",
+    "primary": [
+      "cardiorenal"
+    ],
+    "secondary": [
+      "oral-drugs"
+    ],
+    "rationale": "选药主要依据已明确的心衰结局目标，需辨认各类口服药。",
+    "path": "HFrEF + HbA1c 已达标 + 目标是减少心衰住院 → 看结局证据 → 选相应 SGLT2 抑制剂。",
+    "analysis": "在适用患者中，选有心衰获益证据的 SGLT2 抑制剂。单纯加大降糖强度不能替代这一目标，吡格列酮的液体潴留也不利于心衰。",
+    "purpose": "把药物选择从降糖幅度转向预设的临床结局。",
+    "total": 96.7,
+    "rank": 1,
+    "scores": {
+      "相关度": 100.0,
+      "重要性": 97.0,
+      "难度适配": 96.0,
+      "辨析迁移": 97.0,
+      "综合度": 89.0
+    },
+    "links": [
+      {
+        "label": "〔中〕",
+        "url": "https://doi.org/10.3760/cma.j.cn115791-20241203-00705"
+      },
+      {
+        "label": "〔心〕",
+        "url": "https://doi.org/10.2337/dc26-S010"
+      }
+    ]
+  },
+  {
+    "id": "dm-q17",
+    "number": 17,
+    "kind": "病例单选",
+    "layer": 3,
+    "stem": "1 型糖尿病成人采用基础—餐时方案。连续一周空腹和夜间血糖在个人目标范围内，无夜间低血糖，午餐前也达标，但午餐后反复明显升高。下一步最适合优先复核哪一环节？",
+    "options": {
+      "A": "全面提高夜间基础胰岛素",
+      "B": "午餐剂量、注射时机及餐中碳水估算",
+      "C": "减少与午餐无关的早餐餐时胰岛素",
+      "D": "先停用午餐餐时胰岛素以判断能否自行回落"
+    },
+    "location": "题库第 17 题",
+    "answer": [
+      "B"
+    ],
+    "description": "病例单选",
+    "difficulty": "预计中",
+    "source": "自编",
+    "primary": [
+      "basal-bolus"
+    ],
+    "secondary": [
+      "monitoring"
+    ],
+    "rationale": "需分清基础与餐时作用，并用分时段血糖定位异常。",
+    "path": "夜间、空腹、午餐前稳定 → 异常限定在午餐后 → 优先回顾午餐覆盖。",
+    "analysis": "餐时胰岛素覆盖进餐引起的血糖上升。应先核对餐量、时机与剂量等因素。盲目增加基础量会使已稳定的夜间和空腹时段暴露于低血糖风险。",
+    "purpose": "由血糖曲线反查方案的对应组成。",
+    "total": 95.7,
+    "rank": 3,
+    "scores": {
+      "相关度": 100.0,
+      "重要性": 94.0,
+      "难度适配": 96.0,
+      "辨析迁移": 97.0,
+      "综合度": 88.0
+    },
+    "links": [
+      {
+        "label": "〔中〕",
+        "url": "https://doi.org/10.3760/cma.j.cn115791-20241203-00705"
+      },
+      {
+        "label": "〔药〕",
+        "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S183/163934/9-Pharmacologic-Approaches-to-Glycemic-Treatment"
+      }
+    ]
+  },
+  {
+    "id": "dm-q18",
+    "number": 18,
+    "kind": "病例单选",
+    "layer": 3,
+    "stem": "病房内一名使用胰岛素的成人突然意识模糊，不能安全吞咽，床旁血糖 2.0 mmol/L，静脉通路已建立。最合适的初始纠正措施是？",
+    "options": {
+      "A": "喂服葡萄糖水后再观察",
+      "B": "先肌注胰高血糖素，暂不使用已有静脉通路",
+      "C": "立即按低血糖急救流程静脉给葡萄糖并复测",
+      "D": "等待实验室静脉血浆葡萄糖报告后再补糖"
+    },
+    "location": "题库第 18 题",
+    "answer": [
+      "C"
+    ],
+    "description": "病例单选",
+    "difficulty": "预计中",
+    "source": "自编",
+    "primary": [
+      "emergency-care"
+    ],
+    "secondary": [
+      "hypoglycemia"
+    ],
+    "rationale": "吞咽能力和静脉通路决定给药途径，实测值与意识异常支持立即处理。",
+    "path": "低血糖 + 不能吞咽 + 已有静脉通路 → 静脉给糖 → 复测及随后寻找诱因。",
+    "analysis": "不能安全吞咽时经口给糖有误吸风险。有静脉通路应迅速静脉给糖，并在纠正后复查。无静脉通路时可按急救条件考虑胰高血糖素。",
+    "purpose": "在病例中正确选择纠正途径。",
+    "total": 95.0,
+    "rank": 5,
+    "scores": {
+      "相关度": 99.0,
+      "重要性": 98.0,
+      "难度适配": 93.0,
+      "辨析迁移": 93.0,
+      "综合度": 83.0
+    },
+    "links": [
+      {
+        "label": "〔中〕",
+        "url": "https://doi.org/10.3760/cma.j.cn115791-20241203-00705"
+      },
+      {
+        "label": "〔院〕",
+        "url": "https://doi.org/10.2337/dc26-S016"
+      }
+    ]
+  },
+  {
+    "id": "dm-q19",
+    "number": 19,
+    "kind": "综合病例组合单选",
+    "layer": 4,
+    "stem": "一名 1 型糖尿病成人发热、呕吐后漏用胰岛素，出现深快呼吸和明显脱水。静脉血浆葡萄糖 19.4 mmol/L，血 β-羟丁酸 5.1 mmol/L，pH 7.18，血钾 3.1 mmol/L。哪组「急症判断＋初始处理顺序」最合适？",
+    "options": {
+      "A": "HHS｜先补液并纠正低钾，血钾升至安全水平后再启动胰岛素",
+      "B": "DKA｜立即给胰岛素，待血糖降至目标后再处理低钾",
+      "C": "DKA｜补液和补钾后，待血糖下降即可结束急症治疗",
+      "D": "DKA｜先补液并纠正低钾，血钾升至安全水平后再启动胰岛素，同时处理诱因"
+    },
+    "location": "题库第 19 题",
+    "answer": [
+      "D"
+    ],
+    "description": "综合病例组合单选",
+    "difficulty": "预计较难",
+    "source": "官方示例病例改写 · USMLE Step 3 CCS Case 5",
+    "primary": [
+      "ketoacidosis",
+      "emergency-care"
+    ],
+    "secondary": [
+      "crisis-labs",
+      "crisis-triggers"
+    ],
+    "rationale": "必须同时判定 DKA 和低钾时的处置顺序。血酮、pH、血钾和漏用史分别提供判断依据。",
+    "path": "发热及漏药提供诱因 → 高血糖、明显酮血症与酸中毒确认 DKA → 低钾改变启动胰岛素的先后 → 同步处理诱因。",
+    "analysis": "优先复苏并补钾，按成人危象共识，血钾低于 3.5 mmol/L 时延迟胰岛素，至高于 3.5 mmol/L 再启动。后续须继续处理酮症和酸中毒，血糖下降本身不能代表缓解。",
+    "purpose": "把危象识别、关键化验和首轮方案放在同一条决策链上。",
+    "total": 98.4,
+    "rank": 1,
+    "scores": {
+      "相关度": 100.0,
+      "重要性": 99.0,
+      "难度适配": 96.0,
+      "辨析迁移": 98.0,
+      "综合度": 99.0
+    },
+    "links": [
+      {
+        "label": "〔美5〕",
+        "url": "https://www.usmle.org/exam-resources/step-3-materials/step-3-test-question-formats/computer-based-case-simulations"
+      },
+      {
+        "label": "〔危〕",
+        "url": "https://doi.org/10.2337/dci24-0032"
+      }
+    ]
+  },
+  {
+    "id": "dm-q20",
+    "number": 20,
+    "kind": "综合病例组合单选",
+    "layer": 4,
+    "stem": "2 型糖尿病成人，HbA1c 7.0%，个人目标已达成。过去 4 个月两次随访 UACR 均约 170 mg/g，现 eGFR 49 mL/min/1.73 m²，治疗条件允许使用有肾脏获益的药物。患者还诉双足麻木，皮肤完整，足背动脉可触及。哪组行动最同时针对肾病进展和足溃疡风险？",
+    "options": {
+      "A": "考虑有肾脏获益证据的 SGLT2 抑制剂｜足背动脉可触及即可排除感觉风险",
+      "B": "考虑有肾脏获益证据的 SGLT2 抑制剂｜用 10 g 单丝联合另一种感觉检查",
+      "C": "仅因 HbA1c 达标而维持所有用药｜用 10 g 单丝联合另一种感觉检查",
+      "D": "仅因 HbA1c 达标而维持所有用药｜足背动脉可触及即可排除感觉风险"
+    },
+    "location": "题库第 20 题",
+    "answer": [
+      "B"
+    ],
+    "description": "综合病例组合单选",
+    "difficulty": "预计较难",
+    "source": "自编",
+    "primary": [
+      "cardiorenal",
+      "repeat-screening"
+    ],
+    "secondary": [
+      "chronic-tests",
+      "macrovascular"
+    ],
+    "rationale": "肾脏保护和足部筛查均要做对才成立，肾指标及足部感觉线索支持两项行动。",
+    "path": "持续白蛋白尿与 eGFR 下降 → 有肾脏进展风险 → 按证据考虑相应药物 → 麻木提示保护性感觉风险 → 规范足部感觉筛查。",
+    "analysis": "HbA1c 已达标，仍有独立的肾脏保护目标。皮肤完整和足背动脉可触及不能说明保护性感觉正常。单丝应联合另一种感觉检查。",
+    "purpose": "在稳定随访中同时发现两个值得干预的风险。",
+    "total": 96.9,
+    "rank": 2,
+    "scores": {
+      "相关度": 99.0,
+      "重要性": 96.0,
+      "难度适配": 95.0,
+      "辨析迁移": 98.0,
+      "综合度": 98.0
+    },
+    "links": [
+      {
+        "label": "〔中〕",
+        "url": "https://doi.org/10.3760/cma.j.cn115791-20241203-00705"
+      },
+      {
+        "label": "〔肾〕",
+        "url": "https://doi.org/10.2337/dc26-S011"
+      },
+      {
+        "label": "〔足〕",
+        "url": "https://doi.org/10.2337/dc26-S012"
+      }
+    ]
+  }
+]

@@ -1,25 +1,18 @@
 <!doctype html>
-<html lang="zh-CN">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#155a47">
-  <meta name="description" content="按学科、系统与章节查阅医学笔记，检索知识点与关联练习。">
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; connect-src 'self'; img-src 'self'; script-src 'self'; style-src 'self'; object-src 'none'; base-uri 'none'; form-action 'self'">
-  <title>医学手记 · 医学笔记知识库</title>
-  <link rel="icon" href="assets/favicon.svg">
-  <link rel="stylesheet" href="styles/site.css">
-  <script type="module" src="scripts/app.js"></script>
-</head>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,interactive-widget=resizes-content">
+<meta name="theme-color" content="#123b30"><meta name="description" content="医学书柜与学习工作台：按知识地图、认知目标、连续正文和关联题目学习。"><title>医学手记 · 医学书柜</title><link rel="icon" href="assets/favicon.svg"><link rel="stylesheet" href="learning/ui.css"><script type="module" src="learning/entry.js"></script></head>
 <body>
-<a class="skip" href="#main">跳到正文</a>
-<header><div class="bar">
-  <a class="brand" href="#home"><img src="assets/favicon.svg" alt="" width="38" height="38"><span>医学手记<small>Medica Notes</small></span></a>
-  <nav aria-label="主导航"><a href="#home">首页</a><a href="#catalog">学科目录</a><a href="#updates">最近更新</a></nav>
-  <a class="search-short" href="#search" aria-label="全站搜索"><svg aria-hidden="true"><use href="assets/icons.svg#search"></use></svg><span>搜索知识库</span><kbd>/</kbd></a>
-</div></header>
-<main id="main" tabindex="-1"><p>正在加载知识目录…</p></main>
-<noscript>请启用 JavaScript 以浏览目录和搜索笔记。</noscript>
-<footer><div><span>医学手记</span><a href="#about">关于知识库</a></div></footer>
-</body>
-</html>
+<a class="skip" href="#main">跳到主区</a>
+<header class="bar"><a class="brand" href="#home"><img src="assets/favicon.svg" alt="" width="29" height="29">医学手记</a><button id="library-toggle" aria-controls="library" aria-expanded="true">章节</button><button id="search-open">搜索知识、任务与题目 <kbd>/</kbd></button><a class="desk-link" href="#home">学习工作台</a></header>
+<div class="layout"><aside id="library" aria-label="学科与章节">
+<h2>医学知识库</h2><details open><summary>内科学</summary><details open><summary>内分泌系统</summary><a href="#read">糖尿病</a></details></details><a href="library.html#catalog">原笔记库</a></aside>
+<div class="stage"><nav id="tabs" aria-label="章节功能"><a data-page="map" href="#map">知识地图</a><a data-page="tasks" href="#tasks">认知目标</a><a data-page="read" href="#read">知识正文</a><a data-page="quiz" href="#quiz">题库</a><button id="compare-toggle" aria-expanded="false" aria-controls="companion">小窗学习</button></nav>
+<div class="spread"><main id="main" tabindex="-1"><p>正在加载糖尿病章节…</p></main>
+<aside id="companion" aria-label="小窗学习" hidden>
+<header class="pane-head"><strong>小窗学习</strong><button id="pane-mode"></button><button id="pane-close" aria-label="关闭小窗学习">关闭</button></header>
+<nav class="pane-tabs" aria-label="小窗学习内容"><button data-pane="map">地图</button><button data-pane="goals">目标</button><button data-pane="text">正文</button><button data-pane="quiz">题库</button></nav>
+<div id="pane-body"></div></aside></div></div></div>
+<dialog id="search-box" aria-labelledby="search-title"><div class="split"><h2 id="search-title">全局搜索</h2><button id="search-close">关闭</button></div><input id="query" type="search" aria-label="搜索关键词" placeholder="输入名称、术语或题号"><div id="results" aria-live="polite"></div></dialog>
+<dialog id="tools-sheet" aria-labelledby="sheet-title"><header class="split"><h2 id="sheet-title"></h2><button data-dismiss>关闭</button></header><div id="sheet-body"></div></dialog>
+<p id="storage-status" role="status"></p>
+</body></html>

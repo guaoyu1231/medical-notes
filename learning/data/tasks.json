@@ -1,0 +1,261 @@
+[
+  {
+    "id": "dm-task-glossary",
+    "content": "text-glossary",
+    "description": "辨认常用检查、监测和急症缩写",
+    "level": 1,
+    "importance": "了解"
+  },
+  {
+    "id": "dm-task-disease-definition",
+    "content": "text-disease-definition",
+    "description": "解释慢性高血糖与胰岛素分泌及作用的关系",
+    "level": 2,
+    "importance": "常规"
+  },
+  {
+    "id": "dm-task-etiology-types",
+    "content": "text-etiology-types",
+    "description": "列出四类分型并识别典型继发病因",
+    "level": 2,
+    "importance": "常规"
+  },
+  {
+    "id": "dm-task-crisis-triggers",
+    "content": "text-crisis-triggers",
+    "description": "区分发病因素与高血糖危象诱因",
+    "level": 3,
+    "importance": "核心"
+  },
+  {
+    "id": "dm-task-physiology",
+    "content": "text-physiology",
+    "description": "从分泌能力和组织反应解释高血糖",
+    "level": 2,
+    "importance": "常规"
+  },
+  {
+    "id": "dm-task-beta-damage",
+    "content": "text-beta-damage",
+    "description": "说明 β 细胞损伤如何减少内源性胰岛素",
+    "level": 2,
+    "importance": "常规"
+  },
+  {
+    "id": "dm-task-insulin-resistance",
+    "content": "text-insulin-resistance",
+    "description": "区分胰岛素抵抗、代偿和代偿不足",
+    "level": 2,
+    "importance": "常规"
+  },
+  {
+    "id": "dm-task-symptoms",
+    "content": "text-symptoms",
+    "description": "用因果链解释尿糖、渗透性利尿和口渴",
+    "level": 2,
+    "importance": "常规"
+  },
+  {
+    "id": "dm-task-crisis",
+    "content": "text-crisis",
+    "description": "区分高血糖危象和治疗相关低血糖",
+    "level": 2,
+    "importance": "常规"
+  },
+  {
+    "id": "dm-task-ketoacidosis",
+    "content": "text-ketoacidosis",
+    "description": "依据酮症与酸中毒识别 DKA",
+    "level": 3,
+    "importance": "核心"
+  },
+  {
+    "id": "dm-task-hyperosmolar",
+    "content": "text-hyperosmolar",
+    "description": "解释 HHS 的高渗脱水与酮症特点",
+    "level": 3,
+    "importance": "核心"
+  },
+  {
+    "id": "dm-task-hypoglycemia",
+    "content": "text-hypoglycemia",
+    "description": "结合给药、进餐及实测血糖判断低血糖",
+    "level": 3,
+    "importance": "核心"
+  },
+  {
+    "id": "dm-task-microvascular",
+    "content": "text-microvascular",
+    "description": "辨认眼、肾及神经损害的典型线索",
+    "level": 2,
+    "importance": "常规"
+  },
+  {
+    "id": "dm-task-macrovascular",
+    "content": "text-macrovascular",
+    "description": "区分大血管病变与足部局部风险",
+    "level": 3,
+    "importance": "核心"
+  },
+  {
+    "id": "dm-task-glucose-tests",
+    "content": "text-glucose-tests",
+    "description": "说明常用糖代谢和分型检查分别回答什么",
+    "level": 2,
+    "importance": "常规"
+  },
+  {
+    "id": "dm-task-crisis-labs",
+    "content": "text-crisis-labs",
+    "description": "解读危象化验并解释治疗后血钾变化",
+    "level": 3,
+    "importance": "核心"
+  },
+  {
+    "id": "dm-task-chronic-tests",
+    "content": "text-chronic-tests",
+    "description": "为肾、眼、神经和足部选择评估工具",
+    "level": 3,
+    "importance": "核心"
+  },
+  {
+    "id": "dm-task-confirmation",
+    "content": "text-confirmation",
+    "description": "根据症状与检测结果判断是否需要确认",
+    "level": 3,
+    "importance": "核心"
+  },
+  {
+    "id": "dm-task-cutoffs",
+    "content": "text-cutoffs",
+    "description": "匹配各项糖尿病诊断检测及其切点",
+    "level": 3,
+    "importance": "核心"
+  },
+  {
+    "id": "dm-task-confirmation-limits",
+    "content": "text-confirmation-limits",
+    "description": "判断何时复测异常指标及 HbA1c 何时受干扰",
+    "level": 3,
+    "importance": "核心"
+  },
+  {
+    "id": "dm-task-prediabetes",
+    "content": "text-prediabetes",
+    "description": "区分两类糖尿病前期并识别筛查对象",
+    "level": 3,
+    "importance": "核心"
+  },
+  {
+    "id": "dm-task-type-differential",
+    "content": "text-type-differential",
+    "description": "结合抗体、分泌功能和病因辨别分型",
+    "level": 2,
+    "importance": "常规"
+  },
+  {
+    "id": "dm-task-crisis-differential",
+    "content": "text-crisis-differential",
+    "description": "比较酮症、酸中毒、高渗与脱水以判断危象",
+    "level": 3,
+    "importance": "核心"
+  },
+  {
+    "id": "dm-task-management",
+    "content": "text-management",
+    "description": "为患者说明基础管理及个体化目标",
+    "level": 3,
+    "importance": "核心"
+  },
+  {
+    "id": "dm-task-drug-classes",
+    "content": "text-drug-classes",
+    "description": "按机制归类非胰岛素药并辨认代表药",
+    "level": 1,
+    "importance": "常规"
+  },
+  {
+    "id": "dm-task-drug-choice",
+    "content": "text-drug-choice",
+    "description": "按病情和目标比较不同药物类别",
+    "level": 3,
+    "importance": "核心"
+  },
+  {
+    "id": "dm-task-oral-drugs",
+    "content": "text-oral-drugs",
+    "description": "比较常用口服药及磺脲类低血糖风险",
+    "level": 2,
+    "importance": "常规"
+  },
+  {
+    "id": "dm-task-incretins",
+    "content": "text-incretins",
+    "description": "辨认两类肠促胰素相关药物",
+    "level": 1,
+    "importance": "了解"
+  },
+  {
+    "id": "dm-task-cardiorenal",
+    "content": "text-cardiorenal",
+    "description": "结合共病与目标权衡心肾获益、体重及低血糖风险",
+    "level": 4,
+    "importance": "核心"
+  },
+  {
+    "id": "dm-task-basal-bolus",
+    "content": "text-basal-bolus",
+    "description": "说明基础与餐时胰岛素分别覆盖什么",
+    "level": 3,
+    "importance": "核心"
+  },
+  {
+    "id": "dm-task-intensification",
+    "content": "text-intensification",
+    "description": "识别需要评估胰岛素起始或强化的情境",
+    "level": 3,
+    "importance": "核心"
+  },
+  {
+    "id": "dm-task-injection",
+    "content": "text-injection",
+    "description": "核对注射时点、餐量和部位以识别风险",
+    "level": 3,
+    "importance": "核心"
+  },
+  {
+    "id": "dm-task-emergency-care",
+    "content": "text-emergency-care",
+    "description": "结合容量、血钾和危象类型分析处置先后",
+    "level": 4,
+    "importance": "核心"
+  },
+  {
+    "id": "dm-task-chronic-care",
+    "content": "text-chronic-care",
+    "description": "结合肾脏与心血管风险说明综合管理目标",
+    "level": 3,
+    "importance": "核心"
+  },
+  {
+    "id": "dm-task-monitoring",
+    "content": "text-monitoring",
+    "description": "按监测目的区分 HbA1c、指尖血糖和 CGM",
+    "level": 3,
+    "importance": "核心"
+  },
+  {
+    "id": "dm-task-repeat-screening",
+    "content": "text-repeat-screening",
+    "description": "按器官选择定期筛查方式",
+    "level": 3,
+    "importance": "核心"
+  },
+  {
+    "id": "dm-task-special-settings",
+    "content": "text-special-settings",
+    "description": "辨认需要调整一般管理路径的特殊情境",
+    "level": 1,
+    "importance": "了解"
+  }
+]

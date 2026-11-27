@@ -1,0 +1,560 @@
+[
+  {
+    "id": "glossary",
+    "code": "⓪",
+    "title": "本讲中英文名词与操作术语",
+    "parent": null,
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 1 行",
+    "content": "text-glossary"
+  },
+  {
+    "id": "definition",
+    "code": "①",
+    "title": "定义",
+    "parent": null,
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 2 行",
+    "content": "text-disease-definition"
+  },
+  {
+    "id": "disease-definition",
+    "code": "①-①",
+    "title": "疾病定义",
+    "parent": "definition",
+    "detail": false,
+    "notes": [
+      "以慢性高血糖为特征，由胰岛素分泌不足、作用受损或两者共同导致。"
+    ],
+    "location": "导图表第 2 行",
+    "content": "text-disease-definition"
+  },
+  {
+    "id": "classification",
+    "code": "②",
+    "title": "分类",
+    "parent": null,
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 3 行",
+    "content": "text-etiology-types"
+  },
+  {
+    "id": "etiology-types",
+    "code": "②-①",
+    "title": "病因分类",
+    "parent": "classification",
+    "detail": false,
+    "notes": [
+      "分为 1 型糖尿病、2 型糖尿病、妊娠糖尿病及其他特殊类型。"
+    ],
+    "location": "导图表第 3 行",
+    "content": "text-etiology-types"
+  },
+  {
+    "id": "causes",
+    "code": "③",
+    "title": "病因与诱因",
+    "parent": null,
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 4 行",
+    "content": "text-crisis-triggers"
+  },
+  {
+    "id": "crisis-triggers",
+    "code": "③-①",
+    "title": "常见病因与高血糖危象诱因",
+    "parent": "causes",
+    "detail": false,
+    "notes": [
+      "1 型多与自身免疫有关，2 型与遗传易感、超重或肥胖等因素有关。",
+      "其他病因包括单基因异常、胰腺外分泌疾病及药物。",
+      "感染或漏用胰岛素可诱发高血糖危象。"
+    ],
+    "location": "导图表第 4 行",
+    "content": "text-crisis-triggers"
+  },
+  {
+    "id": "mechanism",
+    "code": "④",
+    "title": "病理生理与发病机制",
+    "parent": null,
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 5 行",
+    "content": "text-physiology"
+  },
+  {
+    "id": "physiology",
+    "code": "④-①",
+    "title": "病理生理",
+    "parent": "mechanism",
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 5 行",
+    "content": "text-physiology"
+  },
+  {
+    "id": "beta-damage",
+    "code": "④-①-①",
+    "title": "1 型的 β 细胞损伤与胰岛素缺乏",
+    "parent": "physiology",
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 5 行",
+    "content": "text-beta-damage"
+  },
+  {
+    "id": "insulin-resistance",
+    "code": "④-①-②",
+    "title": "2 型的胰岛素抵抗与 β 细胞功能受损",
+    "parent": "physiology",
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 5 行",
+    "content": "text-insulin-resistance"
+  },
+  {
+    "id": "presentation",
+    "code": "⑤",
+    "title": "临床表现（并发症）",
+    "parent": null,
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 6 行",
+    "content": "text-symptoms"
+  },
+  {
+    "id": "symptoms",
+    "code": "⑤-①",
+    "title": "常见表现",
+    "parent": "presentation",
+    "detail": false,
+    "notes": [
+      "多尿、多饮、多食和体重下降，也可无明显症状或以并发症起病。"
+    ],
+    "location": "导图表第 6 行",
+    "content": "text-symptoms"
+  },
+  {
+    "id": "acute",
+    "code": "⑤-②",
+    "title": "急性并发症",
+    "parent": "presentation",
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 7 行",
+    "content": "text-crisis"
+  },
+  {
+    "id": "crisis",
+    "code": "⑤-②-③",
+    "title": "高血糖危象",
+    "parent": "acute",
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 7 行",
+    "content": "text-crisis"
+  },
+  {
+    "id": "ketoacidosis",
+    "code": "3-1",
+    "title": "糖尿病酮症酸中毒",
+    "parent": "crisis",
+    "detail": true,
+    "notes": [],
+    "location": "导图表第 7 行",
+    "content": "text-ketoacidosis"
+  },
+  {
+    "id": "hyperosmolar",
+    "code": "3-2",
+    "title": "高渗高血糖状态",
+    "parent": "crisis",
+    "detail": true,
+    "notes": [],
+    "location": "导图表第 7 行",
+    "content": "text-hyperosmolar"
+  },
+  {
+    "id": "hypoglycemia",
+    "code": "⑤-②-④",
+    "title": "低血糖的诱因与表现",
+    "parent": "acute",
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 7 行",
+    "content": "text-hypoglycemia"
+  },
+  {
+    "id": "chronic",
+    "code": "⑤-③",
+    "title": "慢性并发症",
+    "parent": "presentation",
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 8 行",
+    "content": "text-microvascular"
+  },
+  {
+    "id": "microvascular",
+    "code": "⑤-③-⑤",
+    "title": "肾脏、视网膜与神经病变",
+    "parent": "chronic",
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 8 行",
+    "content": "text-microvascular"
+  },
+  {
+    "id": "macrovascular",
+    "code": "⑤-③-⑥",
+    "title": "大血管病变及糖尿病足",
+    "parent": "chronic",
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 8 行",
+    "content": "text-macrovascular"
+  },
+  {
+    "id": "investigations",
+    "code": "⑥",
+    "title": "辅助检查",
+    "parent": null,
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 9 行",
+    "content": "text-glucose-tests"
+  },
+  {
+    "id": "glucose-tests",
+    "code": "⑥-①",
+    "title": "血糖与分型检查",
+    "parent": "investigations",
+    "detail": false,
+    "notes": [
+      "空腹及随机血糖、OGTT 和 HbA1c。必要时测胰岛自身抗体与 C 肽。"
+    ],
+    "location": "导图表第 9 行",
+    "content": "text-glucose-tests"
+  },
+  {
+    "id": "assessment",
+    "code": "⑥-②",
+    "title": "并发症评估",
+    "parent": "investigations",
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 10 行",
+    "content": "text-crisis-labs"
+  },
+  {
+    "id": "crisis-labs",
+    "code": "⑥-②-⑦",
+    "title": "血酮、酸碱、电解质与渗透压",
+    "parent": "assessment",
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 10 行",
+    "content": "text-crisis-labs"
+  },
+  {
+    "id": "chronic-tests",
+    "code": "⑥-②-⑧",
+    "title": "眼、肾、神经、足部及心血管评估",
+    "parent": "assessment",
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 10 行",
+    "content": "text-chronic-tests"
+  },
+  {
+    "id": "diagnosis",
+    "code": "⑦",
+    "title": "诊断与鉴别诊断",
+    "parent": null,
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 11 行",
+    "content": "text-confirmation"
+  },
+  {
+    "id": "screening",
+    "code": "⑦-①",
+    "title": "诊断与筛查",
+    "parent": "diagnosis",
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 11 行",
+    "content": "text-confirmation"
+  },
+  {
+    "id": "confirmation",
+    "code": "⑦-①-⑨",
+    "title": "糖尿病诊断",
+    "parent": "screening",
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 11 行",
+    "content": "text-confirmation"
+  },
+  {
+    "id": "cutoffs",
+    "code": "9-1",
+    "title": "血糖与 HbA1c 诊断标准",
+    "parent": "confirmation",
+    "detail": true,
+    "notes": [],
+    "location": "导图表第 11 行",
+    "content": "text-cutoffs"
+  },
+  {
+    "id": "confirmation-limits",
+    "code": "9-2",
+    "title": "异常结果确认与 HbA1c 的局限",
+    "parent": "confirmation",
+    "detail": true,
+    "notes": [],
+    "location": "导图表第 11 行",
+    "content": "text-confirmation-limits"
+  },
+  {
+    "id": "prediabetes",
+    "code": "⑦-①-⑩",
+    "title": "糖尿病前期与筛查",
+    "parent": "screening",
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 11 行",
+    "content": "text-prediabetes"
+  },
+  {
+    "id": "differential",
+    "code": "⑦-②",
+    "title": "鉴别诊断",
+    "parent": "diagnosis",
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 12 行",
+    "content": "text-type-differential"
+  },
+  {
+    "id": "type-differential",
+    "code": "⑦-②-⑪",
+    "title": "糖尿病各分型及特殊类型",
+    "parent": "differential",
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 12 行",
+    "content": "text-type-differential"
+  },
+  {
+    "id": "crisis-differential",
+    "code": "⑦-②-⑫",
+    "title": "酮症酸中毒与高渗高血糖状态",
+    "parent": "differential",
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 12 行",
+    "content": "text-crisis-differential"
+  },
+  {
+    "id": "treatment",
+    "code": "⑧",
+    "title": "治疗",
+    "parent": null,
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 13 行",
+    "content": "text-management"
+  },
+  {
+    "id": "management",
+    "code": "⑧-①",
+    "title": "基础管理",
+    "parent": "treatment",
+    "detail": false,
+    "notes": [
+      "自我管理教育、营养、运动和体重管理，设定个体化血糖目标。"
+    ],
+    "location": "导图表第 13 行",
+    "content": "text-management"
+  },
+  {
+    "id": "drug-classes",
+    "code": "⑧-②",
+    "title": "非胰岛素药物分类",
+    "parent": "treatment",
+    "detail": false,
+    "notes": [
+      "二甲双胍、磺脲类、格列奈类、噻唑烷二酮类。",
+      "α-葡萄糖苷酶抑制剂、DPP-4 抑制剂、SGLT2 抑制剂。",
+      "GLP-1 受体激动剂及 GIP／GLP-1 双受体激动剂。"
+    ],
+    "location": "导图表第 14 行",
+    "content": "text-drug-classes"
+  },
+  {
+    "id": "type-two-therapy",
+    "code": "⑧-③",
+    "title": "2 型糖尿病用药",
+    "parent": "treatment",
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 15 行",
+    "content": "text-drug-choice"
+  },
+  {
+    "id": "drug-choice",
+    "code": "⑧-③-⑬",
+    "title": "非胰岛素药物选择",
+    "parent": "type-two-therapy",
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 15 行",
+    "content": "text-drug-choice"
+  },
+  {
+    "id": "oral-drugs",
+    "code": "13-1",
+    "title": "口服药的作用特点与选择",
+    "parent": "drug-choice",
+    "detail": true,
+    "notes": [],
+    "location": "导图表第 15 行",
+    "content": "text-oral-drugs"
+  },
+  {
+    "id": "incretins",
+    "code": "13-2",
+    "title": "GLP-1 及 GIP／GLP-1 相关药物",
+    "parent": "drug-choice",
+    "detail": true,
+    "notes": [],
+    "location": "导图表第 15 行",
+    "content": "text-incretins"
+  },
+  {
+    "id": "cardiorenal",
+    "code": "⑧-③-⑭",
+    "title": "体重、心肾获益与低血糖风险",
+    "parent": "type-two-therapy",
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 15 行",
+    "content": "text-cardiorenal"
+  },
+  {
+    "id": "insulin",
+    "code": "⑧-④",
+    "title": "胰岛素治疗",
+    "parent": "treatment",
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 16 行",
+    "content": "text-basal-bolus"
+  },
+  {
+    "id": "basal-bolus",
+    "code": "⑧-④-⑮",
+    "title": "1 型糖尿病的基础—餐时方案及泵治疗",
+    "parent": "insulin",
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 16 行",
+    "content": "text-basal-bolus"
+  },
+  {
+    "id": "intensification",
+    "code": "⑧-④-⑯",
+    "title": "2 型糖尿病的胰岛素起始与强化",
+    "parent": "insulin",
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 16 行",
+    "content": "text-intensification"
+  },
+  {
+    "id": "injection",
+    "code": "⑧-④-⑰",
+    "title": "注射技术与低血糖预防",
+    "parent": "insulin",
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 16 行",
+    "content": "text-injection"
+  },
+  {
+    "id": "complications",
+    "code": "⑧-⑤",
+    "title": "并发症处理",
+    "parent": "treatment",
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 17 行",
+    "content": "text-emergency-care"
+  },
+  {
+    "id": "emergency-care",
+    "code": "⑧-⑤-⑱",
+    "title": "高血糖危象与低血糖的处理",
+    "parent": "complications",
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 17 行",
+    "content": "text-emergency-care"
+  },
+  {
+    "id": "chronic-care",
+    "code": "⑧-⑤-⑲",
+    "title": "慢性并发症管理与心肾风险控制",
+    "parent": "complications",
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 17 行",
+    "content": "text-chronic-care"
+  },
+  {
+    "id": "follow-up",
+    "code": "⑧-⑥",
+    "title": "随访与特殊情境",
+    "parent": "treatment",
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 18 行",
+    "content": "text-monitoring"
+  },
+  {
+    "id": "monitoring",
+    "code": "⑧-⑥-⑳",
+    "title": "HbA1c、指尖血糖与持续葡萄糖监测",
+    "parent": "follow-up",
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 18 行",
+    "content": "text-monitoring"
+  },
+  {
+    "id": "repeat-screening",
+    "code": "⑧-⑥-㉑",
+    "title": "眼、肾、神经及足部定期筛查",
+    "parent": "follow-up",
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 18 行",
+    "content": "text-repeat-screening"
+  },
+  {
+    "id": "special-settings",
+    "code": "⑧-⑥-㉒",
+    "title": "老年、妊娠、住院及围手术期管理",
+    "parent": "follow-up",
+    "detail": false,
+    "notes": [],
+    "location": "导图表第 18 行",
+    "content": "text-special-settings"
+  }
+]
